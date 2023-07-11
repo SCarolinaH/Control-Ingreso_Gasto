@@ -3,6 +3,8 @@
 Sistema de Control de Ingresos y Gastos con .Net 5
 
 Creación de una Aplicación Web (MVC) usando SQL Server y Entity Framework Core.
+
+
 ![Pantalla_INICIO](https://github.com/SCarolinaH/Control-Ingreso_Gasto/assets/108714851/f43b4e71-7f0b-45a9-9790-7542000da7b0)
 
 
